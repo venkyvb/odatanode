@@ -1,0 +1,17 @@
+{
+    "name": "c4codataclient",
+    "version": "1.0.0",
+    "description": "Simple C4C Odata client",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "venkyvb@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "odata": "^0.3.8",
+        "q": "^1.5.1",
+        "qlimit": "^0.1.1",
+        "reinstall": "^2.0.0"
+    }
+}
